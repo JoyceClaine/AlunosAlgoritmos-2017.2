@@ -38,7 +38,12 @@ Lista dos repositórios dos alunos de algoritmos
 
 ## Veridiano Francisco -[Veridiano1976](https://github.com/Veridiano1976/)
 * [Lista 02](https://github.com/Veridiano1976/Lista_exercicio)
+
 ---
 
+## Joyce Claine - [JoyceClaine](https://github.com/JoyceClaine)
+* [Lista 02](https://github.com/JoyceClaine/avaliacao2) - *Completo*
+
+---
 
 
