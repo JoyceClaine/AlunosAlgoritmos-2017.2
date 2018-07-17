@@ -37,7 +37,7 @@ Lista dos repositórios dos alunos de algoritmos
 ---
 
 ## Joyce Claine - [JoyceClaine](https://github.com/JoyceClaine)
-* [Lista 02](https://github.com/JoyceClaine/avaliacao2) - *Completo*
+* [Lista 02](https://github.com/JoyceClaine/Exercicio2) - 
 
 ---
 
